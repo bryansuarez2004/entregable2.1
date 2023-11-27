@@ -1,0 +1,12 @@
+.conteiner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(/weatherimg.webp);
+  background-size: cover;
+  background-repeat: no-repeat  ;
+  text-align: center;
+}
+
+
